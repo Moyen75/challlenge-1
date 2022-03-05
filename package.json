@@ -2,6 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Moyen islam",
 	"description": "I am just practicing this project.",
+	"keywords": [
+		"descriptive",
+		"freecodecamp",
+		"words"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
