@@ -7,6 +7,7 @@
 		"freecodecamp",
 		"words"
 	],
+	"license": "BSD",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
