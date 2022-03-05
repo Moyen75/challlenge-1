@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Moyen islam",
+	"description": "I am just practicing this project.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
